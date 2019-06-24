@@ -4,22 +4,17 @@ const ap = new APlayer({
     autoplay: false,
     audio: [
       {
-        name: "PDD洪荒之力",
-        artist: '徐梦圆',
-        url: 'http://up.mcyt.net/?down/39868.mp3',
-        cover: 'http://oeff2vktt.bkt.clouddn.com/image/84.jpg',
+        name: '水星记',
+        artist: '郭顶',
+        url: 'http://www.ytmp3.cn/down/55401.mp3',
+        cover: 'http://img.ytmp3.cn/image/52.jpg',
       },
       {
-        name: '9420',
-        artist: '麦小兜',
-        url: 'http://up.mcyt.net/?down/45967.mp3',
-        cover: 'http://oeff2vktt.bkt.clouddn.com/image/8.jpg',
+        name: '星空',
+        artist: '五月天',
+        url: 'http://www.ytmp3.cn/down/57650.mp3',
+        cover: 
       },
-      {
-        name: '风筝误',
-        artist: '刘珂矣',
-        url: 'http://up.mcyt.net/?down/46644.mp3',
-        cover: 'http://oeff2vktt.bkt.clouddn.com/image/96.jpg',
-      }
+     
     ]
 });
