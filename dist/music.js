@@ -13,7 +13,7 @@ const ap = new APlayer({
         name: '星空',
         artist: '五月天',
         url: 'http://www.ytmp3.cn/down/57650.mp3',
-        cover: 
+        cover: 'http://img.ytmp3.cn/image/52.jpg', 
       },
      
     ]
