@@ -14,3 +14,4 @@
              document.title = OriginTitle;
          }, 2000);
      }
+ });
